@@ -1,0 +1,44 @@
+
+.timer{
+    margin-top: 80px;
+  }
+  .mintstyle{
+    font-family: days;
+    color: #f7c10f;
+    font-size: 48px;
+  }
+  .parastyle{
+    text-shadow: 0 0 15px #f7c10f;
+   color: white;
+   font-family: days;
+   font-size: 50px;
+  }
+  .timestyle{
+    text-shadow: 0 0 15px #00aced;
+   color: white;
+   font-family: days;
+   font-size: 30px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .timer{
+      margin-top: 250px;
+    }
+    .mintstyle{
+      font-family: days;
+      color:#f7c10f ;
+      font-size: 38px;
+    }
+    .parastyle{
+      text-shadow: 0 0 15px #f7c10f;
+     color: white;
+     font-family: days;
+     font-size: 40px;
+    }
+    .timestyle{
+      text-shadow: 0 0 15px #00aced;
+     color: white;
+     font-family: days;
+     font-size: 20px;
+    }
+}  
